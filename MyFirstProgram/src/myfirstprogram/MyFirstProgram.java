@@ -1,4 +1,3 @@
-
 package myfirstprogram;
 
 public class MyFirstProgram {
